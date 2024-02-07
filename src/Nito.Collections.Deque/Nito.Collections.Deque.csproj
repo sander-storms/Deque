@@ -5,7 +5,7 @@
     <TargetFrameworks>netstandard1.0;netstandard2.0;net461;net8.0</TargetFrameworks>
     <PackageTags>collection;deque;dequeue</PackageTags>
     <SignAssembly>True</SignAssembly>
-    <AssemblyOriginatorKeyFile>D:\git\Impressions\hardnesstesterV4\3rdparty\AsyncEx\src\Deque\Nito.Collections.Deque.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\..\Nito.Collections.Deque.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>
